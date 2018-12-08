@@ -1,5 +1,6 @@
 # Maze-Generator
 This repo holds different maze-generating algorithms as a part of a comparative study.
+
 The implemented algoriths are:
 (1) Depth First
 (2) Dijkstra
