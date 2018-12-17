@@ -8,3 +8,6 @@ The implemented algoriths are:
 (4) Prim
 (5) Ivy
 (6) Depth First Ivy
+
+
+![](https://i.ytimg.com/vi/88VEGNoIxj8/maxresdefault.jpg)
