@@ -1,3 +1,4 @@
+
 DepthFirstIvyGenerator.CONSIDERING = "#8888ff";
 function DepthFirstIvyGenerator(topology, sizeX, sizeY) {
   this.maze = new Maze(topology, sizeX, sizeY);
