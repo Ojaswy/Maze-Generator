@@ -4,7 +4,7 @@ This repo holds different maze-generating algorithms as a part of a comparative 
 The implemented algoriths are:
 
 (1) Depth First
-
+ 
 (2) Dijkstra
 
 (3) Kruskal
