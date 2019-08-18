@@ -37,7 +37,7 @@ KruskalGenerator.prototype.maybeMergeRooms = function(room1, room2) {
 KruskalGenerator.prototype.getOptions = function() {
   if (this.edgesToConsider.length === 0) return null;
   return {
-    type: "edge",
+    type: "edge", 
     values: this.edgesToConsider,
   };
 };
